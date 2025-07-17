@@ -76,3 +76,6 @@ Thumbs.db
 
 # Yarn Integrity file
 .yarn-integrity
+
+# Claude directory
+.claude/
