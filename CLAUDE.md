@@ -12,7 +12,7 @@ This is a React application built with Vite that provides a comprehensive resume
 - **Build**: `pnpm build` - Creates production build in `dist/` directory
 - **Lint**: `pnpm lint` - Runs ESLint for code quality checks
 - **Preview**: `pnpm preview` - Preview production build locally
-- **Deploy**: `pnpm deploy` - Builds and deploys to GitHub Pages (predeploy hook runs build automatically)
+- **Deploy**: `pnpm run deploy` - Builds and deploys to GitHub Pages (predeploy hook runs build automatically)
 
 ## Architecture & Tech Stack
 
